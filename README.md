@@ -1,9 +1,11 @@
-### Hi there 👋
+  ### Olá, Meu nome é Mélany!  👋
 
-<!--
-**melanyantoniazzi/melanyantoniazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional com 16 anos de experiência no mercado, graduada em Turismo e atualmente em transição de carreira para área de Tecnologia.
 
-Here are some ideas to get you started:
+Sabendo das mudanças na atualidade, estou me qualificando, especializando em cursos direcionados para análise e desenvolvimento de sistemas e disciplinas complementares. 
+Acreditando sempre em minhas competências e experiências que possam contribuir com a sua empresa. 
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
